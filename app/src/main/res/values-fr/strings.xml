@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tutorial 02</string>
+    <string name="text_Enable">Veuillez activer les permissions demandées.</string>
+    <string name="text_user_name">Nom de l\'usager</string>
+    <string name="text_password">Mot de passe</string>
+    <string name="text_change_language">Changer la langue du système</string>
+    <string name="text_login">Login</string>
+    <string name="txt_LanguageSettings">Langue du système</string>
+    <string name="txt_save">Sauvez</string>
+    <string name="txt_open_cam">Caméra ouverte</string>
+    <string name="text_error_user">Utilisateur ou mot de passe erroné, veuillez réessayer.</string>
+    <string name="text_restart">Le système doit être redémarré.</string>
+
+</resources>

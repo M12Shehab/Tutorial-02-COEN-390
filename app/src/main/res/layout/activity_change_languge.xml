@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Views.Change_Languge">
+
+    <TextView
+        android:layout_margin="15dp"
+        android:textColor="#000"
+        android:textSize="24dp"
+        android:text="@string/txt_LanguageSettings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RadioButton
+            android:id="@+id/rdb_English"
+            android:layout_margin="10dp"
+            android:textAlignment="viewStart"
+            android:text="English"
+            android:textSize="18dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <RadioButton
+            android:id="@+id/rdb_French"
+            android:checked="true"
+            android:layout_margin="10dp"
+            android:textAlignment="viewStart"
+            android:text="French"
+            android:textSize="18dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btn_save"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="#FFF"
+        android:text="@string/txt_save"
+        android:background="@drawable/button_desing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>

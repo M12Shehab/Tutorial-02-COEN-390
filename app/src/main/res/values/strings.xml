@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tutorial 02</string>
+    <string name="text_Enable">Please enable the requested permissions.</string>
+    <string name="text_user_name">User Name</string>
+    <string name="text_password">Password</string>
+    <string name="text_change_language">Change system language</string>
+    <string name="text_login">Login</string>
+    <string name="txt_LanguageSettings">System Language</string>
+    <string name="txt_save">Save</string>
+    <string name="txt_open_cam">Open Camera</string>
+    <string name="text_error_user">Wrong user or password, please try again</string>
+    <string name="text_restart">System need to restart.</string>
+
+</resources>
