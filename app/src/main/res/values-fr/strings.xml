@@ -11,5 +11,7 @@
     <string name="txt_open_cam">Caméra ouverte</string>
     <string name="text_error_user">Utilisateur ou mot de passe erroné, veuillez réessayer.</string>
     <string name="text_restart">Le système doit être redémarré.</string>
+    <string name="text_default_user_not_found">L\'utilisateur par défaut n\'est pas créé</string>
+    <string name="text_default_user_found">L\'utilisateur par défaut a été créé</string>
 
 </resources>

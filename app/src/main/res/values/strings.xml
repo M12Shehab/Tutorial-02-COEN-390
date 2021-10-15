@@ -10,5 +10,7 @@
     <string name="txt_open_cam">Open Camera</string>
     <string name="text_error_user">Wrong user or password, please try again</string>
     <string name="text_restart">System need to restart.</string>
+    <string name="text_default_user_not_found">Default user has NOT been created</string>
+    <string name="text_default_user_found">Default user has been created</string>
 
 </resources>
