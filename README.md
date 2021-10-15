@@ -10,11 +10,6 @@
   </p>
 </p>
 
-<h3>
-<p align="center">
-Your task is to add a third language as homework. You need to add string.xml as a dictionary for your third language and add Java code to the file (Change_Languge.java). Don't forget to add a radio button at the XML activity.
-</p>
-</h3>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
