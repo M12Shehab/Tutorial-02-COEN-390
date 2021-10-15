@@ -66,7 +66,7 @@ public abstract class AbsRuntimePermission extends AppCompatActivity {
         if( (grantResults.length > 0) && PackageManager.PERMISSION_GRANTED == permissionCheck) {
             onPermissionsGranted(requestCode);
         } else {
-            //Display message when contain some Dangerous permisson not accept
+            //Display message when contain some Dangerous permission not accept
             Snackbar.make(findViewById(android.R.id.content), mErrorString.get(requestCode),
                     Snackbar.LENGTH_INDEFINITE).setAction(getResources().getString(R.string.text_Enable),
                     new View.OnClickListener() {
